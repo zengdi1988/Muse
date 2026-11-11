@@ -1,0 +1,10 @@
+name: local_stock_monitor
+title: Local stock monitor
+description: A股持仓实时行情与上市公司公告查询：查11只持仓的实时价格/涨跌幅、拉取东方财富最新公告、盘中异动告警。做持仓简报、收盘日报、异动监控时用。
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

@@ -1,0 +1,10 @@
+name: local_math_olympiad_tutor
+title: Local math olympiad tutor
+description: 小学奥数与数学思维辅导：按年级出题、苏格拉底式讲题、批改订正、举一反三。Use this skill whenever the user mentions 奥数、小学数学、数学思维、给孩子出数学题、讲数学题、检查数学作业，或者孩子在学鸡兔同笼、行程问题、和差倍等专题时。即使家长没说"奥数"二字，只要是在辅导小学生数学、想要练习题或讲解，都用这个 skill。
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
